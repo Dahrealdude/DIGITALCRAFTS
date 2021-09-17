@@ -1,0 +1,54 @@
+#Navigating the File system
+The Cd Command
+Touch command and rm command
+Mkdir and rmdir
+ls command
+pwd command
+	
+
+	#Git
+Git add command
+Git commit
+Git add .
+Git push command
+Git branch command
+Git merge branch name
+Git checkout
+Git checkout master
+Git rivert command
+
+#PYTHON QUESTIONS
+1. python filename.py
+2. use a variable
+3 print statement
+4.If or else statement
+5. while Loop 
+6. if it is true , the code executes the body of the loop again
+7. sequence is the generic term for an ordered set. Lists are the most versatile sequence type 
+list are mutable, Tuples are immutable, they can't be changed.
+Strings are special type of sequences that only store characters.
+8. To return a vale from a function , you must include a return statement , followed by the value to be returned.
+9. The variable n is called an index and the set of values that it can take is called index set.
+10. The first index is zero 
+11. Add an item to the end:(append) To remove , provide a range of elements to the del statement
+12.-1
+13.len()
+14. authors name , date , title , code version , type and web address
+15.Don't Repeat Yourself
+16 . scope is the block or body of any python function 
+17.parameter is a variable listed inside the parentheses in the function. 
+Argument is the value that are sent to the function 
+18. a function defined in terms of itself 
+19. you must include a return statement , followed by the value to be returned
+20 Dictonary is an unordered collection of data values. it is used to store multiple data with key value pairs
+21.use the del method
+22. using in opeator , dict.items(). To change use dict[Key]
+23.sequence allow you to store multiple values
+24.unordered sequence of Items
+25.use dict.items()to iterate over the keys 
+26 a programming paradigm that uses objects and classes in programming
+27 class creates a user- defined data structure.  classes are for defining a particula type of object
+28.class properties provides an interface to instance atrributes.the __Init__()method is use to ive a class an initial set of properties
+29. a method that is bound to the class and not the object of the class
+30.inheritance allows us to define a class that inherits all the methods and properties from another class
+31.dict, list ,set and tuple 
