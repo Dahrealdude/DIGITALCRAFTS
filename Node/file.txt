@@ -1,0 +1,2 @@
+You will build your front-end web development skills starting with HTML and CSS. You will learn how to create web pages, format their contents, and finely control the layout. To do that, you will recreate several popular web page designs (such as medium.com's or google.com’s look and feel).
+
